@@ -1,6 +1,6 @@
 # Titanic Kaggle 
 
-The repository contains a basic study of Decision Trees with Kaggle's Titanic Challenge. The goal of this repository is to show a very simple decision tree with a max_depth of 3. This model achieves a score of 81.56%
+The repository contains a basic study of Decision Trees for Kaggle's Titanic Challenge. The goal of this repository is to show a very simple decision tree with a max_depth of 3. This model achieves a score of 81.56%
 
 ### Dependencies:  
  
