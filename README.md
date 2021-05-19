@@ -1,6 +1,10 @@
 # Titanic Kaggle 
 
-The repository contains a basic Decision Tree for Kaggle's Titanic Challenge. The goal of this repository is to show a very simple decision tree with a max_depth of 3. This model achieves a score of 81.56%
+The repository contains a basic Decision Tree for Kaggle's Titanic Challenge. The goal of this repository is to show a very simple decision tree with a max_depth of 3. This model achieves a score of 81.56%.
+
+### Quick Start: 
+[Check out](https://nbviewer.jupyter.org/github/alicevillar/Titanic_Kaggle/blob/main/Titanic_DecisionTree.ipynb
+) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
 
 ### Dependencies:  
  
@@ -8,7 +12,7 @@ The repository contains a basic Decision Tree for Kaggle's Titanic Challenge. Th
 * [SciKit-Learn](https://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org/)
 
-## Kaggle Competition | Titanic Machine Learning from Disaster
+### Kaggle Competition | Titanic Machine Learning from Disaster
 
 Kaggle's challenge provides information about a subset of the Titanic population and asks a predictive model that tells whether or not a given passenger survived. 
 We are given basic explanatory variables, including passenger gender, age, passenger class, among others.
