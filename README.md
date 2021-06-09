@@ -1,7 +1,7 @@
 
 # Titanic rescue prediction using Decision Tree, SVM, Logistic Regression, Random Forest and KNN
 
-The repository contains a basic Decision Tree for Kaggle's Titanic Challenge. The objective of this competition was to build a classification model that could successfully predict the survival or the death  of a given passenger based on a set of variables. The purpose of this repository is to document the process I went through to create a Titanic rescue prediction using Decision Tree, SVM, Logistic Regression, Random Forest and KNN. 
+The objective of  Kaggle's Titanic Challenge was to build a classification model that could successfully predict the survival or the death  of a given passenger based on a set of variables. The purpose of this repository is to document the process I went through to create a Titanic rescue prediction using Decision Tree, SVM, Logistic Regression, Random Forest and KNN. 
  
 ### Quick Start: 
 
