@@ -5,7 +5,7 @@ The repository contains a basic Decision Tree for Kaggle's Titanic Challenge. Th
  
 ### Quick Start: 
 
-[Check out](https://nbviewer.jupyter.org/github/alicevillar/Titanic_Kaggle/blob/main/Titanic_DecisionTree.ipynb
+[Check out](https://nbviewer.jupyter.org/github/alicevillar/titanic-kaggle/blob/main/Titanic_DecisionTree.ipynb
 ) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
 
 ### Dependencies:  
